@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signIn_Login", "signIn_Login.csproj", "{1D793D22-C29E-4031-BA45-5F9A35B607EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csl_ConexionBaseDatos", "..\csl_ConexionBaseDatos\csl_ConexionBaseDatos.csproj", "{CA452D48-8843-47FE-8247-8C0CFAE082EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D793D22-C29E-4031-BA45-5F9A35B607EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D793D22-C29E-4031-BA45-5F9A35B607EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D793D22-C29E-4031-BA45-5F9A35B607EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D793D22-C29E-4031-BA45-5F9A35B607EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA452D48-8843-47FE-8247-8C0CFAE082EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA452D48-8843-47FE-8247-8C0CFAE082EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA452D48-8843-47FE-8247-8C0CFAE082EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA452D48-8843-47FE-8247-8C0CFAE082EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EBEF2EB-E90F-40FF-BDCC-DC936E65D5D2}
+	EndGlobalSection
+EndGlobal

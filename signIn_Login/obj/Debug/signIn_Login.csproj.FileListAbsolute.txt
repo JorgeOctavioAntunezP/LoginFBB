@@ -1,0 +1,17 @@
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\signIn_Login.exe.config
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\signIn_Login.exe
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\signIn_Login.pdb
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\Transitions.dll
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\Transitions.pdb
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.frm_signIn.resources
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.Properties.Resources.resources
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.csproj.CopyComplete
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.exe
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.pdb
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\csl_ConexionBaseDatos.dll
+C:\Users\Jorge\Desktop\signIn_Login\bin\Debug\csl_ConexionBaseDatos.pdb
+C:\Users\Jorge\Desktop\signIn_Login\obj\Debug\signIn_Login.frm_login.resources

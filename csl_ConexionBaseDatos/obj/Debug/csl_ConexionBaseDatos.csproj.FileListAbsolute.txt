@@ -1,0 +1,6 @@
+C:\Users\Jorge\Desktop\csl_ConexionBaseDatos\bin\Debug\csl_ConexionBaseDatos.dll
+C:\Users\Jorge\Desktop\csl_ConexionBaseDatos\bin\Debug\csl_ConexionBaseDatos.pdb
+C:\Users\Jorge\Desktop\csl_ConexionBaseDatos\obj\Debug\csl_ConexionBaseDatos.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\csl_ConexionBaseDatos\obj\Debug\csl_ConexionBaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\csl_ConexionBaseDatos\obj\Debug\csl_ConexionBaseDatos.dll
+C:\Users\Jorge\Desktop\csl_ConexionBaseDatos\obj\Debug\csl_ConexionBaseDatos.pdb
